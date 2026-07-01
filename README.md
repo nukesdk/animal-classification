@@ -6,3 +6,4 @@ Detect animal picture
 <img width="728" height="240" alt="Screenshot 2026-07-02 at 1 07 26 AM" src="https://github.com/user-attachments/assets/7665331a-d85c-455e-b9d0-3888c1b41b6b" />
 <img width="653" height="552" alt="con" src="https://github.com/user-attachments/assets/ab4be966-4184-44e5-8fde-761d2f549508" />
 <img width="1541" height="788" alt="end" src="https://github.com/user-attachments/assets/5c669b7e-ca77-402f-927e-3abf8416f7df" />
+lol 
